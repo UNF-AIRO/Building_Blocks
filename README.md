@@ -9,6 +9,6 @@ Then add your name and project to the contributors list.
 
 # Contributors
 
-| Project |  Contributor | University |
+| Project |  Contributor | University / Company |
 |---|---|---|
 | K Means Python Class | Marion Forrest | University of North Florida |
