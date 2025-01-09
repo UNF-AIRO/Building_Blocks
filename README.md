@@ -4,8 +4,7 @@ This repository is intended to make the development of school assignments, one o
 
 # How to contribute
 
-Simply clone the repository and add a folder with your code (source folder is optional), an example imeplementation, and a README.md file.
-Then add your name and project to the contributors list.
+Simply clone the repository and add a folder with your code and a README file (An example imeplementation is optional). Then add your name and project to the contributors list.
 
 # Contributors
 
