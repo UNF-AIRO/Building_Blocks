@@ -11,4 +11,4 @@ Then add your name and project to the contributors list.
 
 | Project |  Contributor | University / Company |
 |---|---|---|
-| K Means Python Class | Marion Forrest | University of North Florida |
+| K Clusters Algorithm | Marion Forrest | University of North Florida |
