@@ -1,10 +1,11 @@
 # Reinforcement Learning
 This repository is a creation of a simple Reinforcment learning model inteaded to get the basics of creating them using pytorch and gymnasmim
 
-# Requirements
-Pytorch
-gymnasium
-matplotlib
+# Dependencies
+
+- Pytorch
+- Gymnasium
+- matplotlib
 
 # Task
 This uses the cart pull problem where the system can choice to move the cart right or left and will try to keep the sick in the air 
