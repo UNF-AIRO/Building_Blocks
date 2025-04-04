@@ -12,3 +12,4 @@ Simply clone the repository and add a folder with your code and a README file (A
 |---|---|---|
 | K Clusters Algorithm | Marion Forrest | University of North Florida |
 | DQN Reinforment Algorithm | Daniel Reinecke | University of North Florida |
+| creating neural netowrks | Daniel Reinecke | University of North Florida |
